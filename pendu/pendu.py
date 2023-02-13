@@ -1,9 +1,6 @@
 # très complexe à comprendre n'est pas entierement mon travail #
 
 
-
-
-
 import pygame, sys
 from pygame.locals import *
 from traitement_fichier import *
